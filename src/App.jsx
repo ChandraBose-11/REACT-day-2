@@ -15,7 +15,7 @@ const App = () => {
     {id:1,name:"chandru",age:3},
     {id:2,name:"bose",age:4},
     {id:3,name:"doe",age:5},
-    {id:4,name:"Amutha",age:5},
+    {id:4,name:"Amutha",age:6},
   ]
   return (
    // jsx part[html,css,js]
